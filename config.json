@@ -1,0 +1,14 @@
+{
+	"TOKEN_comment":"session_cookie from schueler.schule-infoportal.de (Schow to nobody)",
+	"TOKEN":"",
+
+	"CLIENT_ID_comment":"ID od your DC Bot (Also show to nobody)",
+	"CLIENT_ID":"",
+
+	"GUILD_ID_comment":"Discord Server ID",
+	"GUILD_ID":"",
+
+	"CHANNEL_ID_comment":"Discord Channel ID (if empty, all channels are allowed)",
+	"CHANNEL_ID":""
+}
+
